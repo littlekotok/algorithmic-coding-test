@@ -7,7 +7,7 @@
 The program takes a friendship list and a question as input.
 
 The format is as follows:
-X friendship link lines `<name1> is friends with <name2>` or `I am friends with <name2>` or `<name1> is friends with me`<br>
+X friendship link lines `<name1> is friends with <name2>` __or__ `I am friends with <name2>` or `<name1> is friends with me`<br>
 a `---` separator<br>
 A question `Is <name> my friend?`
 
