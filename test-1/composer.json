@@ -1,0 +1,11 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.19",
+        "illuminate/collections": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/app/"
+        }
+    }
+}
