@@ -32,20 +32,20 @@ The goal is to answer the question with yes or no.
 
 ```php
 is_friend("
-Benjamin est ami avec Paul
-Sophie est amie avec moi
-Je suis ami avec Benjamin
+Benjamin is friends with Paul
+Sophie is friends with moi
+I am friends with Benjamin
 ---
-Est-ce que Sophie est mon amie ?")  # return true;
+Is Sophie my friend");  # return true;
 ```
 
 ```php
 is_friend("
-Benjamin est ami avec Paul
-Frank est ami avec Paul
-Mathieu est ami avec Aurore
-Sophie est amie avec moi
-Je suis ami avec Benjamin
+Benjamin is friends with Paul
+Frank is friends with Paul
+Mathieu is friends with Aurore
+Sophie is friends with moi
+I am friends with Benjamin
 ---
-Est-ce que Mathieu est mon ami ?")  # return false;
+Is Mathieu my friend");  # return false;
 ```
