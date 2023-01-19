@@ -36,7 +36,7 @@ Benjamin is friends with Paul
 Sophie is friends with me
 I am friends with Benjamin
 ---
-Is Sophie my friend");  # return true;
+Is Sophie my friend?");  # return true;
 ```
 
 ```php
@@ -47,5 +47,5 @@ Mathieu is friends with Aurore
 Sophie is friends with me
 I am friends with Benjamin
 ---
-Is Mathieu my friend");  # return false;
+Is Mathieu my friend?");  # return false;
 ```
