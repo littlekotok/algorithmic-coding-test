@@ -33,7 +33,7 @@ The goal is to answer the question with yes or no.
 ```php
 is_friend("
 Benjamin is friends with Paul
-Sophie is friends with moi
+Sophie is friends with me
 I am friends with Benjamin
 ---
 Is Sophie my friend");  # return true;
@@ -44,7 +44,7 @@ is_friend("
 Benjamin is friends with Paul
 Frank is friends with Paul
 Mathieu is friends with Aurore
-Sophie is friends with moi
+Sophie is friends with me
 I am friends with Benjamin
 ---
 Is Mathieu my friend");  # return false;
