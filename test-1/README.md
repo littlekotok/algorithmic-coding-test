@@ -11,4 +11,4 @@
 
 ## Exécution
 	
-	docker run -it --rm --name eldo-test-algo -v "$PWD":/usr/src/myapp -w /usr/src/myapp php:8.1-alpine php src/index.php
+	docker run -it --rm --name algo-test-1 -v "$PWD":/usr/src/myapp -w /usr/src/myapp php:8.1-alpine php src/index.php
