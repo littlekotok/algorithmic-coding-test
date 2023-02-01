@@ -1,6 +1,6 @@
 # Slot Machine
 
-## Description
+## Introduction
 
 You love playing slot machines, but what are your chances of winning?
 
