@@ -19,7 +19,7 @@ a `-----` separator<br>
 * diamond
 * lemon
 * horseshoe
-* clover
+* seven
 * clover
 * bell
 
