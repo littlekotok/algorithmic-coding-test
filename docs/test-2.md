@@ -11,6 +11,19 @@ The format is as follows:
 15 symbols (5 reels, 3 rows)<br>
 a `-----` separator<br>
 
+__Example:__
+
+```bash
+grape,grape,clover,clover,cherry
+watermelon,diamond,horseshoe,diamond,horseshoe
+diamond,watermelon,watermelon,seven,seven
+-----
+horseshoe,diamond,grape,clover,cherry
+clover,watermelon,bell,diamond,horseshoe
+seven,cherry,seven,seven,seven
+-----
+```
+
 ## Symbols
 
 * cherry
